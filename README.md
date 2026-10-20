@@ -252,7 +252,3 @@ aibackend/
 Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/abinjoyal268-glitch/AiChatbot/issues).
 
 ---
-
-## License
-
-This project is licensed under the [ISC License](LICENSE).
