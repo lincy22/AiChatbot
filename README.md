@@ -165,7 +165,7 @@ const pool = new Pool({
 
 ---
 
-## 🔌 API Documentation
+## API Documentation
 
 ### 1. Health Check
 Checks if the backend service is active.
