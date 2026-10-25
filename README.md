@@ -6,7 +6,7 @@
 [![OpenRouter API](https://img.shields.io/badge/OpenRouter-API-purple)](https://openrouter.ai/)
 [![ES Modules](https://img.shields.io/badge/ES_Modules-Enabled-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
-A high-performance, modular **Express.js backend** for an AI-powered Gym Trainer & Nutrition Coach. This service handles user queries regarding workouts, dietary plans, macro counts, and fitness advice by interfacing with **OpenRouter API** (`openai/gpt-3.5-turbo`) and persisting chat histories in a **PostgreSQL** database.
+A high-performance, modular **Express.js backend** for an AI-powered Gym Trainer & Nutrition Coach. This service handles user queries regarding workouts, dietary plans, macro counts, and fitness advice by interfacing with **OpenRouter API** and persisting chat histories in a **PostgreSQL** database.
 
 ---
 
