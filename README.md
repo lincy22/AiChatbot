@@ -235,7 +235,7 @@ aibackend/
 ├── controllers/
 │   └── chatController.js # Route handler for incoming chat requests
 ├── routes/
-│   └── aiRoutes.js       # Express routing definitions (/chat, /history)
+│   └── aiRoutes.js       # Express routing definitions
 ├── services/
 │   └── aiService.js      # OpenRouter API integration & DB persistence logic
 ├── .env                  # Environment variables (git-ignored)
